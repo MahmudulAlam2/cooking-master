@@ -1,0 +1,10 @@
+body{
+    background-color: yellow;
+    margin: 45px 100px;
+    width: auto;
+}
+#search-button{
+    width: auto;
+    padding: 50px 300px;
+}
+  
